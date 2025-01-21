@@ -1,4 +1,5 @@
 export const environment = {
+  //edit the config with ur valid informations 
   production: false,
   firebaseConfig: {
     apiKey: "your-api-key",
